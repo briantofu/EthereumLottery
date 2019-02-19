@@ -1,5 +1,5 @@
 ---
-
+## LOTTERIES PROCESS DIAGRAM (SimpleLottery, Recurring, Random Number Generator(RNG), Powerball)
 
 ---
 
