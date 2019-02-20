@@ -1,15 +1,12 @@
 ---
-## LOTTERIES PROCESS DIAGRAM (SimpleLottery, Recurring, Random Number Generator(RNG), Powerball)
+
 
 ---
 
-<p><strong><img src="https://lh3.googleusercontent.com/hCtNKRcMKGUJ8zD727_yI37EC9kV_WG_Rt7cE2rMwqJYBbIzeZXI2yKHCLh1tcHw1BhnMLl0GzbXHizjKY8s7-i2UCFOGmIaGuuqzD20O_o-sVruRiHg0aZXi1aB6gf_s9dS_T2n" alt=""></strong></p>
+<h2 id="simple-lottery">SIMPLE LOTTERY</h2>
+<p><img src="https://i.ibb.co/zrVKjp5/Ethereum-3.jpg" alt="enter image description here"></p>
+<h2 id="recurring-lottery">RECURRING LOTTERY</h2>
+<p><img src="https://i.ibb.co/tPJWz2c/Ethereum-3.png" alt="enter image description here"></p>
+<h2 id="rng-lottery">RNG LOTTERY</h2>
+<p><img src="https://i.ibb.co/WHH7nB2/Ethereum-3-1-2.jpg" alt="RNG LOTTERY"></p>
 
----
-## MEMBERS ##
----
-Jerick De Jesus
-Kenneth Joy Alacon
-Joebert Fundador
-Earl Bryan Nebres
-Glenn Pacantarra
