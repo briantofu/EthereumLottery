@@ -12,7 +12,7 @@
 <p><img src="https://i.ibb.co/WHH7nB2/Ethereum-3-1-2.jpg" alt="RNG LOTTERY"></p>
 <h2 id="powerball">POWERBALL</h2>
 <p><img src="https://i.ibb.co/h8H1rrT/Powerball.jpg" alt="enter image description here"></p>
-<p><font size="100px"><b>Hyperledger Lottery To-Do Flow Diagrams</b></font></p>
+<h1 id="hyperledger-lottery-to-do-flow-diagrams">Hyperledger Lottery To-Do Flow Diagrams</h1>
 <h2 id="simple-lottery-1">Simple Lottery</h2>
 <p><img src="https://i.ibb.co/Xb8Kgjk/Simple-Lottery-Hyper-1.jpg" alt="enter image description here"></p>
 <h2 id="recurring-lottery-1">Recurring Lottery</h2>
