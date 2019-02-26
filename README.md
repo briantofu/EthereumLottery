@@ -19,6 +19,8 @@
 <p><img src="https://i.ibb.co/ys5QNDv/Recurring-1.jpg" alt="enter image description here"></p>
 <h2 id="rng-lottery-1">RNG Lottery</h2>
 <p><img src="https://i.ibb.co/W2mWPqJ/Hyperledger-RNG.jpg" alt=""></p>
+<h2 id="powerball-1">Powerball</h2>
+<p><img src="https://i.ibb.co/bWz8KRk/Power-Ball.png" alt="enter image description here"></p>
 <h2 id="members">MEMBERS</h2>
 <ul>
 <li>Jerick De Jesus</li>
