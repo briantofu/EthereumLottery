@@ -1,5 +1,5 @@
 ---
-<font size="100px" weight="bold">ETHEREUM FLOW CHART ACTIVITY</font>
+<font size="170px"><b>ETHEREUM FLOW CHART ACTIVITY</b></font>
 
 ---
 
